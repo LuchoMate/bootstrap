@@ -429,3 +429,13 @@ myTooltipEl.addEventListener('hidden.bs.tooltip', function () {
 
 tooltip.hide()
 ```
+
+## Sass
+
+### Variables
+
+{{< scss-docs name="tooltip-variables" file="scss/_variables.scss" >}}
+
+### Mixins
+
+There are no mixins for tooltips.
